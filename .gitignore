@@ -1,7 +1,7 @@
 config/*
 !config/default.*
 test
-node
+# node
 # Logs
 # logs
 *.log
