@@ -1,6 +1,7 @@
 config/*
 !config/default.*
 test
+node
 # Logs
 # logs
 *.log
