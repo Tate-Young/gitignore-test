@@ -1,6 +1,6 @@
 config/*
 !config/default.*
-
+test
 # Logs
 # logs
 *.log
