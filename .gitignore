@@ -4,6 +4,7 @@ config/*
 # node
 # logs
 test2
+test3
 test4
 *.log
 npm-debug.log*
